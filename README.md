@@ -9,8 +9,8 @@
 
 | Módulo | Descripción | Acceso |
 |--------|-------------|--------|
-| 🔰 **Introducción con Windows 10** | Configuraciones iniciales en pfSense: reglas, DHCP, SSH y conexión básica | 👉 [Ver módulo](./Windows10/README.md) |
-| 🧩 **Integración con Windows Server 2019 y Active Directory** | Integración real de red, proxy, autenticación por usuarios, filtrado y control de tráfico | 👉 [Ver módulo](./WindowsServerAD/README.md) |
+| 🔰 **Introducción con Windows 10** | Configuraciones iniciales en pfSense: reglas, DHCP, SSH y conexión básica | 👉 [Ver módulo](https://github.com/JoshKxng/Laboratorio-Pfsense-WindowsServer-ActiveDirectory/tree/main/pfSense%20aplicado%20a%20Windows%2010) |
+| 🧩 **Integración con Windows Server 2019 y Active Directory** | Integración real de red, proxy, autenticación por usuarios, filtrado y control de tráfico | 👉 [Ver módulo](https://github.com/JoshKxng/Laboratorio-Pfsense-WindowsServer-ActiveDirectory/tree/main/pfSense%20aplicado%20a%20Windows%20Server) |
 > 📁 Cada módulo cuenta con su desarrollo e imágenes del paso a paso de la implementación.
 ---
 
